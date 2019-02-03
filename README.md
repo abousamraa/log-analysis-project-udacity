@@ -59,7 +59,7 @@ It returns output of plain text about the following :
   | daylog  | date    |
   | requests| integer |
   
-  4. Create view Errors_count using:
+  2. Create view Errors_count using:
   ```
     CREATE VIEW Errors_count AS
     select date(time) as daylog , count(status) as errors from log
@@ -72,7 +72,7 @@ It returns output of plain text about the following :
   | daylog        | date    |
   | errors        | integers|
 
-  5. Create view errors_percentage using:
+  3. Create view errors_percentage using:
   ```
     CREATE VIEW errors_percentage AS  
     select Requests_count.daylog , case 
