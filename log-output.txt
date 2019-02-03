@@ -1,0 +1,22 @@
+
+1- The three most popular articles of all time are:
+
+article :   Candidate is jerk, alleges rival has 338647 views
+article :   Bears love berries, alleges bear has 253801 views
+article :   Bad things gone, say good people has 170098 views
+
+
+
+
+2- The most popular authors of all time are:
+
+author :   Ursula La Multa has 507594 views
+author :   Rudolf von Treppenwitz has 423457 views
+author :   Anonymous Contributor has 170098 views
+author :   Markoff Chaney has 84557 views
+
+
+3- days which have more than 1% of requests lead to errors are:
+
+the day of :  2016-07-17 has error perentage of 2.2627%
+
