@@ -19,7 +19,7 @@ It returns output of plain text about the following :
 #### Setup Project:
   1. Install Vagrant and VirtualBox after dowload it From the links above
   2. Download or Clone [fullstack-nanodegree-vm](https://github.com/udacity/fullstack-nanodegree-vm) repository.
-  3. Download [sql data file ] and unzip it(https://d17h27t6h515a5.cloudfront.net/topher/2016/August/57b5f748_newsdata/newsdata.zip) from here.
+  3. Download [sql data file ](https://d17h27t6h515a5.cloudfront.net/topher/2016/August/57b5f748_newsdata/newsdata.zip)  and unzip it
   4. Copy the newsdata.sql file , Put this file into the vagrant directory, which is shared with your virtual machine.
   
 #### Launch your Virtual Machine:
